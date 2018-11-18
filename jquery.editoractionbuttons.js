@@ -3,7 +3,7 @@
  *
  * Copyright: Dario L. Mindoro
  *
- * Contributions and bug reports: https://github.com/claviska/jquery-minicolors
+ * Contributions and bug reports: https://github.com/dardsmind/jQuery-editor-action-buttons
  *
  * @license: http://opensource.org/licenses/MIT
  *
