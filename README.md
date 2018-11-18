@@ -1,6 +1,8 @@
 # jQuery-editor-action-buttons
 Small jQuery plugin that put edit, save and cancel button on the editor area
 
+![screen capture](https://github.com/dardsmind/jQuery-editor-action-buttons/blob/master/screen.png)
+
 # How to use
 HTML: place your div any part of your page, preferrably on upper right corner of the editing area
 
