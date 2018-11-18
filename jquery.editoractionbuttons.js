@@ -1,7 +1,7 @@
 /*
  * jQuery editoractionbuttons: A tiny plugin to put edit, save and cancel button around inline editor area
  *
- * Copyright: Dario L. Mindoro
+ * Copyright: https://www.linkedin.com/in/dards/
  *
  * Contributions and bug reports: https://github.com/dardsmind/jQuery-editor-action-buttons
  *
