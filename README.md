@@ -4,9 +4,9 @@ Small jQuery plugin that put edit, save and cancel button on the editor area
 # How to use
 HTML: place your div any part of your page, preferrably on upper right corner of the editing area
 
-<code>
+```html
 <div class="editorButtons"></div>
-</code>
+```
 JS: initialize the place holder with the buttons and assign actions to each buttons
 
 	$(".editorButtons").editorActionButtons({
